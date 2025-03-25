@@ -3,7 +3,7 @@
 var $plugins =
 [
 {"name":"Community_Basic","status":true,"description":"Plugin used to set basic parameters.","parameters":{"cacheLimit":"20","screenWidth":"816","screenHeight":"624","changeWindowWidthTo":"","changeWindowHeightTo":"","renderingMode":"auto","alwaysDash":"off"}},
-{"name":"DK_Globals","status":true,"description":"v.2.0.0 Allows you to specify variables and switches that will be \"global\" to all player saves","parameters":{"Variables":"[]","Switches":"[]"}},
+{"name":"DK_Globals","status":false,"description":"v.2.0.0 Allows you to specify variables and switches that will be \"global\" to all player saves","parameters":{"Variables":"[]","Switches":"[]"}},
 {"name":"AltMenuScreen","status":false,"description":"Alternative menu screen layout.","parameters":{}},
 {"name":"AltSaveScreen","status":true,"description":"Alternative save/load screen layout.","parameters":{}},
 {"name":"animatedSVEnemies","status":true,"description":"Version: 1.16a - The Re-Remake\r\n- Lets enemies be animated!","parameters":{"Debug":"true","No Movement":"false","Enemies Celebrate":"true","SV Enemies Collapse":"false","Static Enemies Breathe":"true","AGI Effects Breathing":"true","Scale Statics by Distance":"false","Damage Slows Down Breathing":"true"}},
