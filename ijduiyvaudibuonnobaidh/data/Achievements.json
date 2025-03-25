@@ -1,0 +1,632 @@
+[
+    {
+        "id":"voidWalk",
+        "title":"Steppin' On The Flowers",
+        "description":"Use Void Walk.",
+        "icon":237,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"prologueAmets",
+        "title":"Enter the Cage (Purple)",
+        "description":"Complete the Prologue as Amets.",
+        "icon":302,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"prologueMartzel",
+        "title":"Enter the Cage (Green)",
+        "description":"Complete the Prologue as Martzel.",
+        "icon":164,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"prologueNikole",
+        "title":"Enter the Cage (Blue)",
+        "description":"Complete the Prologue as Nikole.",
+        "icon":165,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"prologueAintzane",
+        "title":"Enter the Cage (Red)",
+        "description":"Complete the Prologue as Aintzane.",
+        "icon":162,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"getPhone",
+        "title":"You Used To Call Me...",
+        "description":"Get the unused Universal Communicator (phone).",
+        "icon":188,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"puzzleTippedDagger",
+        "title":"Secretly Well-Armed",
+        "description":"Solve the puzzle to get the hidden \nTipped Dagger in the Incipite Forest.",
+        "icon":83,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"chapterOneLance",
+        "title":"Onto the Water",
+        "description":"Defeat Lance to gain access to a boat in the \nGrand Waterways.",
+        "icon":76,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"chapterOneForeshadowingCrystal",
+        "title":"A Poetic Hint",
+        "description":"Find the crystal in Chapter One that tells \nyou how to complete the final boss.",
+        "icon":79,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"wornDagger",
+        "title":"A Knife Key Of Things To Come",
+        "description":"Find the Worn Dagger.",
+        "icon":96,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"errorSlime",
+        "title":"What is this thing?",
+        "description":"Find the secret ERROR_SLIME miniboss.",
+        "icon":75,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"recruitAbby",
+        "title":"A lover, not a fighter?",
+        "description":"Recruit Abby to your party.",
+        "icon":84,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"haremRouteAbby1",
+        "title":"Kiss and Tell",
+        "description":"Unlock a hidden route by having Abby \nuse \"Kiss\" 21 times.",
+        "icon":72,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"doCrafting",
+        "title":"Powers of Creation",
+        "description":"Use a crafting table.",
+        "icon":121,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"chapterOne",
+        "title":"No More Tutorials",
+        "description":"Complete Chapter One.",
+        "icon":142,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"haremRouteAbby2",
+        "title":"Breakfast The Morning After",
+        "description":"Eat Abby's Meal of Love. Tastes like desire.",
+        "icon":72,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"missedApology",
+        "title":"Missed Apology",
+        "description":"Try and fail to apologize to Lehiakide\n for stuff you likely don't remember doing.",
+        "icon":170,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"bracerOfSleepingFists",
+        "title":"Increasing Your Power",
+        "description":"Unlock the Bracer of Sleeping Fists in \nthe Great Cliffs.",
+        "icon":144,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"haremRouteGoizane1",
+        "title":"Touch a Girl's Heart From Between Her Wings",
+        "description":"Complete Goizane's first task on the secret route.",
+        "icon":163,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"waypointWarp",
+        "title":"Dusty Step",
+        "description":"Use Waypoint Warp.",
+        "icon":72,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"mansionDie",
+        "title":"Unwinding the Music Box",
+        "description":"Get caught by The Mansion's statues.",
+        "icon":298,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"chapterTwoBefriend",
+        "title":">ACT",
+        "description":"Befriend Lehiakide using the Flirt skill.",
+        "icon":149,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"haremRouteLehiakide1",
+        "title":"Taming the Tsundere",
+        "description":"Romance Lehiakide in Chapter Two.",
+        "icon":149,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"chapterTwoViolence",
+        "title":">FIGHT",
+        "description":"Choose to defeat Lehiakide with violence.",
+        "icon":301,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"chapterTwo",
+        "title":"Opening your Wings",
+        "description":"Complete Chapter Two.",
+        "icon":151,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"chapterThreeLance",
+        "title":"More of a Speed Bump",
+        "description":"Defeat Lance in the Broken Islands in Chapter Three.",
+        "icon":76,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"haremRouteLehiakide2",
+        "title":"Pickin' Up a Cold Open",
+        "description":"Get Lehiakide's number in Chapter Three.",
+        "icon":149,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"hotelRoom",
+        "title":"...But You Can Never Leave",
+        "description":"Rent a hotel room from Abusari.",
+        "icon":193,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"theNothing",
+        "title":"That's It?! That's the Secret!?",
+        "description":"Find the Nothing.",
+        "icon":16,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"deathGoizane",
+        "title":"Cerebus Knocks",
+        "description":"Find Goizane's body in Chapter Three.",
+        "icon":26,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"izoztutakoHotel",
+        "title":"Are We The Baddies?",
+        "description":"Fight Izoztutako in the Hotel Kaiola.",
+        "icon":290,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"fieldFun",
+        "title":"What was that?",
+        "description":"Find a secret in the Infinite Field.",
+        "icon":89,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"karaHotel",
+        "title":"Checksum Checked",
+        "description":"Fight Kara inside the code of the \nHotel Kaiola.",
+        "icon":245,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"rossBotCigarettes",
+        "title":"Long-Range Smoke Run",
+        "description":"Give Ross Bot cigarettes.",
+        "icon":213,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"hotelJournal",
+        "title":"Behind-the-Scenes Preview",
+        "description":"Read the secret journal in the \nHotel Kaiola's Library.",
+        "icon":187,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"fakeAbby",
+        "title":"You're the faker here!",
+        "description":"Defeat the fake Abby in Chapter Three.",
+        "icon":139,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"killAbusari",
+        "title":"That's Just Business.",
+        "description":"Kill Abusari in Chapter Three.",
+        "icon":26,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"chapterThreeShort",
+        "title":"Three Stars; Poor Service, Nice Bed",
+        "description":"Complete Chapter Three quickly \nby sleeping in your bed.",
+        "icon":24,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"chapterThreeWallClip",
+        "title":"That's How Doors Work, Right?",
+        "description":"Skip the second Abusari fight by \nclipping into the final door.",
+        "icon":242,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"chapterThree",
+        "title":"One Star; Never Coming Here Again",
+        "description":"Complete Chapter Three by going into \nthe final door.",
+        "icon":190,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"playerPiano",
+        "title":"Mysterious Rendition",
+        "description":"Play the player piano in Euclid's Nightmare.",
+        "icon":206,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"recruitLehiakide",
+        "title":"Here Comes the Big Guns",
+        "description":"Recruit Lehiakide in Chapter Four.",
+        "icon":149,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"recruitHaizea",
+        "title":"Taking Back the First Throne",
+        "description":"Recruit Haizea in Chapter Four.",
+        "icon":69,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"recruitRossBot",
+        "title":"Hacking It, And By It I Mean...",
+        "description":"Recruit Ross Bot in Chapter Four.",
+        "icon":73,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"lightsPuzzleFour",
+        "title":"Cold Storage",
+        "description":"Complete the lights puzzle in the icy chamber.",
+        "icon":70,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"quizHell",
+        "title":"Trivia Champion",
+        "description":"Complete Zelatatu's 200 IQ Quiz.",
+        "icon":186,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"tximistaEmerge",
+        "title":"The Yandere Appears",
+        "description":"Meet Tximista with Lehiakide in your party, \nlearning something interesting about her.",
+        "icon":85,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"karaFightFour",
+        "title":"Checking The Void",
+        "description":"Fight Kara in Chapter Four.",
+        "icon":315,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"surpriseMeKick",
+        "title":"Dead Game: Do Not Eat",
+        "description":"Get your game turned off by Iruzurra.",
+        "icon":20,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"crystalCollect",
+        "title":"Crystal Collectathon",
+        "description":"Solve the crystal-collection puzzle in \nChapter Four.",
+        "icon":169,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"basatiFightFour",
+        "title":"Bashing With the Berserker",
+        "description":"Fight Basati in Chapter Four.",
+        "icon":77,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"haizeaScream",
+        "title":"What Anime Is This?",
+        "description":"Witness Haizea turn into her Super Form \nin Chapter Four.",
+        "icon":69,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"dieByLightningFour",
+        "title":"Fool's Award",
+        "description":"Get killed in a highly foolish way.",
+        "icon":9,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"chapterFourEndingOne",
+        "title":"Rank: RD",
+        "description":"Get the \"Redemption Demotion\" ending \nin Chapter Four.",
+        "icon":89,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"chapterFourEndingTwo",
+        "title":"Rank: StST",
+        "description":"Get the \"Shattering the Sky Throne\" ending \nin Chapter Four.",
+        "icon":89,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"chapterFourEndingThree",
+        "title":"Rank: PoNT",
+        "description":"Get the \"Practice of Neo-Thermidorianism\" ending \nin Chapter Four.",
+        "icon":89,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"chapterFourEndingFour",
+        "title":"Rank: FCC",
+        "description":"Get the \"Fourth (Chapter) Crusade\" ending \nin Chapter Four.",
+        "icon":89,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"chapterFourEndingFive",
+        "title":"Rank: RR",
+        "description":"Get the \"Recuperated Renegade\" ending \nin Chapter Four.",
+        "icon":89,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"chapterFourEndingSix",
+        "title":"Rank: SS",
+        "description":"Get the \"Sky Skirmisher\" ending \nin Chapter Four.",
+        "icon":89,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"chapterFourEndingSeven",
+        "title":"Rank: BTAM",
+        "description":"Get the \"Bomb-Throwing Anti-Monarchist\" ending \nin Chapter Four.",
+        "icon":89,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"chapterFourEndingEight",
+        "title":"Rank: TGB",
+        "description":"Get the \"The Grey Baron\" ending \nin Chapter Four.",
+        "icon":89,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"chapterFourEndingNine",
+        "title":"Rank: TTM",
+        "description":"Get the secret \"The Tsundere Mystique\" ending \nin Chapter Four.",
+        "icon":89,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    },
+    {
+        "id":"chapterFourEndingTen",
+        "title":"Rank: UtU",
+        "description":"Get the secret \"Usurp the Usurper\" ending \nin Chapter Four.",
+        "icon":89,
+        "secret":true,
+        "trigger":{
+            "type":"none"
+        }
+    }
+]
