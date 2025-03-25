@@ -1921,9 +1921,9 @@ SceneManager.onError = function(e) {
     console.error(e.message);
     console.error(e.filename, e.lineno);
     try {
-        this.stop();
-        Graphics.printError('Error', e.message);
-        AudioManager.stopAll();
+        //this.stop();
+        //Graphics.printError('Error', e.message);
+        //AudioManager.stopAll();
     } catch (e2) {
     }
 };
