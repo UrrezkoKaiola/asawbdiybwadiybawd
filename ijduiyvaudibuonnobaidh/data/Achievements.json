@@ -182,7 +182,7 @@
     {
         "id":"haremRouteGoizane1",
         "title":"Touch a Girl's Heart From Between Her Wings",
-        "description":"Complete Goizane's first quest on the secret route.",
+        "description":"Complete Goizane's first task on the secret route.",
         "icon":163,
         "secret":true,
         "trigger":{
